@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 I am a software developer and Technical Content Writer<br>
-I love to build applications that add values to businesses . Some technologies I enjoy <br>
+I love to build applications that add values to businesses . Some technologies I enjoy 
 working with are PYthon, Flask, Django, Scikit-learn , Pandas and Numpy etc.
 
 
 ### 🔭 I’m currently working on an interesting Flask REST API guide.
-We would be building a note writing REST API (a diary app)
+Building a note writing REST API (a diary app)
 
 > - [Structuring a Flask Restful project for production.](https://oluchiorji.com/structuring-a-flask-restful-api-for-production/)
 >  - [Creating Custom Error Pages and Handling Exceptions for Flask](https://oluchiorji.com/creating-custom-error-pages-and-handling-exceptions-for-flask/)
