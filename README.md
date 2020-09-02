@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer and Technical Content Writer
+I am a software developer and Technical Content Writer<br>
 I love to build applications that add values to businesses . Some technologies I enjoy <br>
 working with are PYthon, Flask, Django, Scikit-learn , Pandas and Numpy etc.
 
