@@ -19,6 +19,10 @@ I am a software developer and Technical Content Writer<br>
 I love to build applications that add values to businesses . Some technologies I enjoy 
 working with are PYthon, Flask, Django, Scikit-learn , Pandas and Numpy etc.
 
+🔭 I’m currently working on
+- [Devlada](https://twitter.com/Devlada1)  : An e-learning platform focused on teaching Software Engineers how to manage Python Apps & Infrastructure at Scale
+
+
 
 ### - 📫 How to reach me: ...
 - You can reach me via [Twitter](https://twitter.com/oluchiorji_95) or [LinkedIn](https://www.linkedin.com/in/oluchi-orji/)
