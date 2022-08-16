@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am a software developer and Technical Content Writer<br>
-I love to build applications that add values to businesses . Some technologies I enjoy  working with are Python, Golang, Kubernetes, Flask, Django, Scikit-learn , Pandas and Numpy etc.
-
+I love building !
 <!-- 🔭 I’m currently working on
 - [Devlada](https://twitter.com/Devlada1)  : An e-learning platform focused on teaching Software Engineers how to manage Python Apps & Infrastructure at Scale -->
 
